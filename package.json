@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/williancsmelo/parse-challenge/issues"
   },
-  "homepage": "https://github.com/williancsmelo/parse-challenge#readme"
+  "homepage": "https://github.com/williancsmelo/parse-challenge#readme",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.27",
+    "i": "^0.3.7",
+    "lodash": "^4.17.21",
+    "npm": "^8.10.0"
+  }
 }
