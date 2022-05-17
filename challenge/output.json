@@ -1,0 +1,128 @@
+[
+  {
+    "fullname": "John Appleseed",
+    "eid": "1121",
+    "groups": [
+      "Turma 1",
+      "Turma 2",
+      "Turma 3",
+      "Turma 6",
+      "Noturno"
+    ],
+    "addresses": [
+      {
+        "tags": [
+          "Student"
+        ],
+        "type": "email",
+        "address": "john.appleseed@exemplo.com"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "email",
+        "address": "dad.appleseed@exemplo.com"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "phone",
+        "address": "5511999911234"
+      }
+    ],
+    "invisible": true,
+    "see_all": true
+  },
+  {
+    "fullname": "John Appleseed",
+    "eid": "1222",
+    "groups": [
+      "Turma 2",
+      "Turma 5",
+      "Turma 6",
+      "Diurno"
+    ],
+    "addresses": [
+      {
+        "tags": [
+          "Student"
+        ],
+        "type": "email",
+        "address": "john.appleseed1@exemplo.com"
+      },
+      {
+        "tags": [
+          "Student"
+        ],
+        "type": "phone",
+        "address": "5511999901235"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "email",
+        "address": "dad.appleseed2@exemplo.com"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "phone",
+        "address": "5511999911235"
+      }
+    ],
+    "invisible": true,
+    "see_all": false
+  },
+  {
+    "fullname": "Mary Knight",
+    "eid": "1123",
+    "addresses": [
+      {
+        "tags": [
+          "Student"
+        ],
+        "type": "phone",
+        "address": "5512999901235"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "email",
+        "address": "dad.knight@exemplo.com"
+      }
+    ],
+    "invisible": false,
+    "groups": [],
+    "see_all": false
+  },
+  {
+    "fullname": "Jack Littleton",
+    "eid": "1124",
+    "groups": [
+      "Sala 1"
+    ],
+    "addresses": [
+      {
+        "tags": [
+          "Student"
+        ],
+        "type": "email",
+        "address": "jack.littleton@exemplo.com"
+      },
+      {
+        "tags": [
+          "Parent"
+        ],
+        "type": "phone",
+        "address": "5513999911236"
+      }
+    ],
+    "see_all": true,
+    "invisible": false
+  }
+]
